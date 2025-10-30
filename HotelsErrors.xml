@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
-<Hotel Rating="4.2">
-	<Name>Grand Plaza</Name>
-	<Phone>580-968-8885</Phone>
-	<Address>
-		<Number>200</Number>
-		<Street>Main St</Street>
-		<City>Springfield</City>
-		<State>VA</State>
-		<Zip>22150</Zip>
-	</Address>
-</Hotel>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://asnootycowboy.github.io/cse445_a4/Hotels.xsd">
+	<Hotel Rating="4.2">
+		<Name>Grand Plaza</Name>
+		<Phone>580-968-8885</Phone>
+		<Address>
+			<Number>200</Number>
+			<Street>Main St</Street>
+			<City>Springfield</City>
+			<State>VA</State>
+			<Zip>22150</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
