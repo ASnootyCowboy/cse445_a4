@@ -1,15 +1,124 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://asnootycowboy.github.io/cse445_a4/Hotels.xsd">
-	<Hotel Rating="4.2">
-		<Name>Grand Plaza</Name>
-		<Phone>580-968-8885</Phone>
-		<Address>
-			<Number>200</Number>
-			<Street>Main St</Street>
-			<City>Springfield</City>
-			<State>VA</State>
-			<Zip>22150</Zip>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://asnootycowboy.github.io/cse445_a4/Hotels.xsd">
+
+	<Hotel Rating="4.6">
+		<Name>Hotel Parq Central</Name>
+		<Name>Hotel Parq Central</Name>
+		<Phone>505-242-0040</Phone>
+		<Address NearestAirport="Sunport">
+			<Number>806</Number>
+			<Street>Central Ave SE</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87102</Zip>
 		</Address>
 	</Hotel>
-</Hotels>
+
+	<Hotel Rating="4.5">
+		<Name>Hampton Inn Suites</Name>
+		<Address NearestAirport="Sunport">
+			<Number>1300</Number>
+			<Street>Woodward Rd SE</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87106</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Best Western</Name>
+		<Phone>505-242-7022</Phone>
+		<Address NearestAirport="Sunport">
+			<Number>2400</Number>
+			<Street>Yale Blvd SE</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87106</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Baymont by Wyndham</Name>
+		<Phone>505-246-9600</Phone>
+		<Address>
+			<Number>2601</Number>
+			<Street>Mulberry St SE</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87106</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6">
+		<Name>Hotel Chaco</Name>
+		<Phone>505-888-8888</Phone>
+		<Address NearestAirport="Sunport">
+			<Number>2000</Number>
+			<Street>Bellamah Ave NW</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87104</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.9">
+		<Name>Nativo Lodge</Name>
+		<Phone>505-888-8888</Phone>
+		<Address NearestAirport="Sunport">
+			<Number>6000</Number>
+			<Street>Pan American Fwy NE</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87109</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6">
+		<Name>Home2 Suites by Hilton</Name>
+		<Phone>855-618-4702</Phone>
+		<Address NearestAirport="Sunport">
+			<Number>3021</Number>
+			<Street>University Blvd SE</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87106</Zip>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Drury Inn Suites</Name>
+		<Phone>855-937-1401</Phone>
+		<Address NearestAirport="Sunport">
+			<Number>4310</Number>
+			<Street>The 25 Way</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87109</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Days Inn Suites</Name>
+		<Phone>505-888-8888</Phone>
+		<Address NearestAirport="Sunport">
+			<Number>2331</Number>
+			<Street>Central Ave SE</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87106</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Staybridge Suites</Name>
+		<Phone>877-859-5095</Phone>
+		<Address NearestAirport="Sunport">
+			<Number>5817</Number>
+			<Street>Signal Ave</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87113</Zip>
+		</Address>
+	</Hotel>
+	
+</Hotel>
