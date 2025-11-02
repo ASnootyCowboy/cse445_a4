@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema id="Hotels"
-	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="https://asnootycowboy.github.io/cse445_a4/Hotels"
+	xmlns="https://asnootycowboy.github.io/cse445_a4/Hotels"
+	elementFormDefault="qualified"
+	attributeFormDefault="unqualified">
 
 	<xs:element name="Hotels">
 		<xs:complexType>

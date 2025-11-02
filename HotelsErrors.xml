@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://asnootycowboy.github.io/cse445_a4/Hotels.xsd">
+<Hotel xmlns="https://asnootycowboy.github.io/cse445_a4/Hotels"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="https://asnootycowboy.github.io/cse445_a4/Hotels https://asnootycowboy.github.io/cse445_a4/Hotels.xsd">
 
 	<Hotel Rating="4.6">
 		<Name>Hotel Parq Central</Name>
