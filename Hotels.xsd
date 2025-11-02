@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema id="Hotels"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	targetNamespace="https://asnootycowboy.github.io/cse445_a4/Hotels"
-	xmlns="https://asnootycowboy.github.io/cse445_a4/Hotels"
+	targetNamespace="https://raw.githubusercontent.com/ASnootyCowboy/cse445_a4/refs/heads/main/Hotels.xsd"
+	xmlns="https://raw.githubusercontent.com/ASnootyCowboy/cse445_a4/refs/heads/main/Hotels.xsd"
 	elementFormDefault="qualified"
 	attributeFormDefault="unqualified">
 
